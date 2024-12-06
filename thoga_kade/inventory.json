@@ -1,1 +1,1 @@
-[{"id":"1733411934287","name":"Salad","pricePerKg":200.0,"availableQuantity":20.0,"category":"1","expiryDate":"2024-12-24T00:00:00.000"},{"id":"1733412621849","name":"Carrot","pricePerKg":200.0,"availableQuantity":56.0,"category":"1","expiryDate":"2024-12-26T00:00:00.000"}]
+[{"id":"1733412621849","name":"Carrot","pricePerKg":200.0,"availableQuantity":56.0,"category":"1","expiryDate":"2024-12-26T00:00:00.000"},{"id":"1733497512123","name":"Beetroot","pricePerKg":300.0,"availableQuantity":25.0,"category":"roots","expiryDate":"2025-01-12T00:00:00.000"}]

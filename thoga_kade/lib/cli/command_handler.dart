@@ -10,7 +10,7 @@ class CommandHandler {
 
   Future<void> showMenu() async {
     while (true) {
-      print('--- Thoga Kade Management ---');
+      print('--------------- Thoga Kade Management ---------------');
       print('1. View Inventory');
       print('2. Add Vegetable');
       print('3. Remove Vegetable');
